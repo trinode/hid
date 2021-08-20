@@ -44,7 +44,6 @@ import "C"
 
 import (
 	"errors"
-	"runtime"
 	"sync"
 	"unsafe"
 )
